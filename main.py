@@ -8,7 +8,7 @@ def generate_title(user_input_prompt):
     llm = openai.OpenAI(model_name='gpt-3.5-turbo-instruct',
                        max_tokens='256',
                        temperature='0.5')
-    prompt =  user_input_prompt #f"Suggest a title for a website about {user_input_prompt}"
+    prompt =  f"{user_input_prompt} not exceed 4 word" #f"Suggest a title for a website about {user_input_prompt}"
     output = llm(prompt)
     
     # Split the suggestions (assuming they are separated by newline characters)
@@ -38,8 +38,8 @@ def generate_description(title):
 
 def search_image(image_name):
     # Replace with your Google Custom Search API credentials
-    api_key = 'AIzaSyC9cLidfKWeiDm-wKdZ_s9ilSUuSKcfCLs'
-    cx = 'c784c1bc94cbe4955'
+    api_key = 'AIzaSyDAqHqVO9fRiESqLeQjslNh53ZiV36rgqI'
+    cx = '7266ebe81ea1a4367'
 
     def get_google_custom_search_url():
         base_url = 'https://www.googleapis.com/customsearch/v1'
@@ -91,6 +91,6 @@ def search_image(query):
 
 
 
-
 #print(generate_title("generate a title for Cats website"))
-search_image("i need image for my website which used as wallber about flower ") 
+
+#search_image("cats")
