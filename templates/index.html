@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generate Schema</title>
+</head>
+<body>
+    <h1>Generate Schema</h1>
+    <form id="generateForm">
+        <label for="user_text">Enter Text:</label><br>
+        <textarea id="user_text" name="user_text" rows="4" cols="50"></textarea><br>
+        <button type="submit">Generate Schema</button>
+    </form>
+
+    <div id="schemaResult"></div>
+
+    <script>
+        document.getElementById("generateForm").addEventListener("submit", function(event) {
+            event.preventDefault(); // Prevent the default form submission
+            
+            var userText = document.getElementById("user_text").value;
+            
+            // Send a POST request to the Flask server
+            fetch('/generate', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ user_text: userText }),
+            })
+            .then(response => response.json())
+            .then(data => {
+                // Display the generated schema in JSON format
+                document.getElementById("schemaResult").innerHTML = "<pre>" + JSON.stringify(data, null, 2) + "</pre>";
+            })
+            .catch(error => {
+                console.error('Error:', error);
+            });
+        });
+    </script>
+</body>
+</html>

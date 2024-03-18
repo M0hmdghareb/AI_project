@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify , render_template
 from flask_cors import CORS
 from schema import generate_schema 
 import requests
@@ -6,6 +6,9 @@ import requests
 
 app = Flask(__name__)
 CORS(app)  
+@app.route('/')
+def index():
+    return render_template('index.html')
 @app.route('/generate', methods=['POST'])
 def generate():
     user_text = request.json.get('user_text') #replace it with the user input here
