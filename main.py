@@ -1,11 +1,11 @@
 import os
 from dotenv import load_dotenv
-from langchain.llms import openai
+from langchain_openai import OpenAI
 import requests
 
 def generate_title(user_input_prompt):
     load_dotenv('.env')
-    llm = openai.OpenAI(model_name='gpt-3.5-turbo-instruct',
+    llm = OpenAI(model_name='gpt-3.5-turbo-instruct',
                        max_tokens='256',
                        temperature='0.5')
     prompt =  f"{user_input_prompt} not exceed 4 word" #f"Suggest a title for a website about {user_input_prompt}"
@@ -21,7 +21,7 @@ def generate_title(user_input_prompt):
 
 def generate_description(title):
     load_dotenv('.env')
-    llm = openai.OpenAI(model_name='gpt-3.5-turbo-instruct',
+    llm = OpenAI(model_name='gpt-3.5-turbo-instruct',
                        max_tokens='256',  # Set the max tokens to half of 512 for a shorter description
                        temperature='0.5')  
 
@@ -91,6 +91,6 @@ def search_image(query):
 
 
 
-#print(generate_title("generate a title for Cats website"))
+print(generate_title("generate a title for flower website"))
 
 #search_image("cats")

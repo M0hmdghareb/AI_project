@@ -1,0 +1,403 @@
+{
+    "navbar": {
+        "imgUrl": null,
+        "links": [
+            "home",
+            "pages",
+            "services",
+            "projects",
+            "blog",
+            "contact"
+        ]
+    },
+    "hero": {
+        "title": "\"Blooms & Bouquets\"",
+        "description": "\"Discover the beauty of nature's blooms with our online flower shop! Browse through a wide selection of fresh and vibrant flowers, perfect for any occasion. From elegant bouquets to charming arrangements, our website offers a convenient and easy way to bring the joy of flowers into your life. With reliable delivery services and expert florists, we strive to make your flower shopping experience a delightful one.\"",
+        "imgUrl": null,
+        "buttonText": "Get Started",
+        "icon": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701813389/templates/template_one/Vector_5_vvvt2o.svg"
+    },
+    "services": {
+        "blocks": [
+            {
+                "icon": null,
+                "title": "\"Bloom Delivery Services\"",
+                "description": "Our flower shop offers a wide selection of fresh and beautiful flowers for all occasions. From vibrant bouquets to elegant arrangements, our skilled florists can create the perfect floral design to suit your needs. We also provide delivery services to make sure your flowers arrive on time and in pristine condition. Let us help you add a touch of beauty and joy to any special event or celebration with our top-notch flower shop services."
+            },
+            {
+                "icon": null,
+                "title": "\"Blooming Boutique\"",
+                "description": "\"Discover the perfect flower arrangement for any occasion with our exceptional service from our flower shop. From weddings to birthdays, we offer a wide selection of beautiful blooms and personalized arrangements to make your special moments even more memorable.\""
+            },
+            {
+                "icon": null,
+                "title": "\"Blooming Bouquets Service\"",
+                "description": "This service offers customers the opportunity to create an additional brief description for their flower shop, allowing them to effectively showcase their unique offerings and attract more customers. With this service, flower shop owners can highlight their specialties, promotions, and other important information to stand out in a competitive market. By utilizing this service, flower shops can enhance their online presence and increase their customer base."
+            }
+        ]
+    },
+    "feature": {
+        "title": "\"Blooming Beauties: A Floral Feature\"",
+        "description": "This feature allows customers to easily browse and purchase a variety of fresh flowers and floral arrangements from the convenience of their own home. With a user-friendly interface and a wide selection of options, this feature makes it simple for individuals to find the perfect flowers for any occasion from their favorite local flower shop. Customers can also customize their orders and schedule delivery, making it a seamless and convenient experience for all.",
+        "phone": "012345678",
+        "buttonText": "Get Free Estimate",
+        "icons": [
+            {
+                "icon": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701813236/templates/template_one/Call_gqvv4l.svg"
+            },
+            {
+                "icon": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701813389/templates/template_one/Vector_5_vvvt2o.svg"
+            }
+        ],
+        "test": [
+            {
+                "subTest": [
+                    "https://res.cloudinary.com/duc04fwdb/image/upload/v1701813236/templates/template_one/Call_gqvv4l.svg",
+                    "https://res.cloudinary.com/duc04fwdb/image/upload/v1701813389/templates/template_one/Vector_5_vvvt2o.svg",
+                    "https://res.cloudinary.com/duc04fwdb/image/upload/v1701813389/templates/template_one/Vector_5_vvvt2o.svg"
+                ]
+            }
+        ],
+        "imgUrl": null
+    },
+    "testimonials": {
+        "title": "What the People Thinks About Us",
+        "cards": [
+            {
+                "name": "\"SwiftBiz Solutions\"",
+                "location": "Global, Efficient, Convenient, Reliable",
+                "imgUrl": null,
+                "opinion": "Our flower shop services cater to clients looking for beautiful, fresh blooms for any occasion. From weddings to birthdays, we have a wide selection of arrangements and bouquets to choose from. Our team of experienced florists ensures high-quality and personalized designs to meet the specific needs of our clients. With our reliable and efficient services, you can trust us to make your flower shopping experience a delightful one."
+            },
+            {
+                "name": "\"SwiftTech Solutions\"",
+                "location": "\"Global Client Hub\"",
+                "imgUrl": null,
+                "opinion": "Our flower shop services cater to clients who are looking for high-quality and stunning floral arrangements for any occasion. From weddings to birthdays, our team of experienced florists will work closely with you to create the perfect bouquet or centerpiece that reflects your style and vision. With a wide selection of fresh and beautiful flowers, we ensure that every client receives personalized and exceptional service to make their special day even more memorable. Trust us to bring your floral dreams to life with our top-notch services."
+            },
+            {
+                "name": "\"SwiftTech Solutions\"",
+                "location": "1. Urban areas",
+                "imgUrl": null,
+                "opinion": "Our flower shop offers a wide variety of beautiful and fresh flowers for all occasions. From vibrant bouquets to elegant arrangements, our skilled florists create stunning designs that will leave a lasting impression. With our exceptional customer service, convenient delivery options, and high-quality products, we are dedicated to providing a seamless and enjoyable experience for our clients. Trust us to be your go-to flower shop for all your floral needs."
+            }
+        ]
+    },
+    "logos": {
+        "companies": [
+            {
+                "imgUrl": null
+            },
+            {
+                "imgUrl": null
+            },
+            {
+                "imgUrl": null
+            },
+            {
+                "imgUrl": null
+            },
+            {
+                "imgUrl": null
+            }
+        ]
+    },
+    "projects": {
+        "title": "\"Blooming Business Ventures\"",
+        "description": "The projects section of a flower shop website showcases the various floral arrangements and designs created by the shop for events, weddings, and other special occasions. Customers can browse through the gallery to get inspiration for their own orders or to see the quality and creativity of the shop's work. This section also highlights any collaborations or partnerships the shop has had with other businesses or events. It is a great way to showcase the shop's expertise and services in the floral industry.",
+        "cards": [
+            {
+                "imgUrl": null,
+                "title": "\"Blooming Buds\"",
+                "description": "This project involves designing and setting up a flower shop, including selecting and arranging flowers, creating a welcoming and visually appealing storefront, and implementing efficient business operations. The goal is to create a successful and profitable flower shop that attracts customers and provides them with beautiful floral arrangements and exceptional customer service. This project will require creativity, organization, and a passion for flowers and business.",
+                "icon": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701718889/templates/template_one/Vector_5_nzmfwn.svg"
+            },
+            {
+                "imgUrl": null,
+                "title": "\"Blooms & Buds\"",
+                "description": "This project involves creating a detailed plan for a new flower shop, including market research, budgeting, and design. The goal is to establish a successful and profitable business that caters to the needs of flower lovers in the local community. The project will also focus on developing unique branding and marketing strategies to attract and retain customers.",
+                "icon": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701718889/templates/template_one/Vector_5_nzmfwn.svg"
+            },
+            {
+                "imgUrl": null,
+                "title": "\"Blooming Haven\"",
+                "description": "\"This project aims to enhance the customer experience at a flower shop by implementing a new online ordering system and offering personalized floral arrangements. With a user-friendly interface and a wide selection of unique designs, this flower shop will become the go-to destination for all your floral needs.\"",
+                "icon": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701718889/templates/template_one/Vector_5_nzmfwn.svg"
+            },
+            {
+                "imgUrl": null,
+                "title": "1. \"Bloom Boutique\"",
+                "description": "This project involves creating a comprehensive plan for a flower shop, including design, inventory management, marketing strategies, and customer service protocols. The goal is to create a successful and profitable business that offers a wide variety of beautiful and high-quality flowers to customers. This project will require research, creativity, and attention to detail in order to bring the vision of the flower shop to life.",
+                "icon": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701718889/templates/template_one/Vector_5_nzmfwn.svg"
+            }
+        ]
+    },
+    "statistic": {
+        "statistics": [
+            {
+                "title": "Years Of Experience",
+                "value": "12"
+            },
+            {
+                "title": "Success Projects",
+                "value": "85"
+            },
+            {
+                "title": "Active Projects",
+                "value": "15"
+            },
+            {
+                "title": "Happy Customers",
+                "value": "95"
+            }
+        ]
+    },
+    "items": {
+        "title": "Articles & News",
+        "description": "It is a long established fact that a reader will be distracted by the of readable content of a page when lookings at its layouts the points of using.",
+        "cards": [
+            {
+                "title": "\"Discover the beauty of flowers and the art of floral arrangements with our flower shop. From vibrant bouquets to elegant centerpieces, our shop offers a wide selection of fresh and high-quality blooms for all occasions. Learn about the latest flower trends and tips on how to care for your floral arrangements in our brief article. Let us help you add a touch of nature's beauty to your home or special event with our expertly crafted floral designs.\"",
+                "description": "26 December,2022 ",
+                "imgUrl": null,
+                "icon": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701718889/templates/template_one/Vector_5_nzmfwn.svg",
+                "caption": "\"Blooming Business Blossoms\""
+            },
+            {
+                "title": "\"Discover the beauty of flowers at our flower shop and learn how to create stunning arrangements for any occasion. From classic roses to exotic blooms, our shop has everything you need to add a touch of natural elegance to your home or event.\"",
+                "description": "10 December,2022 ",
+                "imgUrl": null,
+                "icon": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701718889/templates/template_one/Vector_5_nzmfwn.svg",
+                "caption": "\"Blooming Boutique Bliss\""
+            },
+            {
+                "title": "\"Experience the beauty and joy of nature with our exquisite collection of flowers at our flower shop. From vibrant roses to delicate lilies, we have a variety of fresh blooms to brighten up any occasion. Let our expert florists help you create the perfect bouquet for your special someone or event. Come visit us and let us help you spread happiness with our beautiful flowers.\"",
+                "description": "1 December,2022 ",
+                "imgUrl": null,
+                "icon": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701718889/templates/template_one/Vector_5_nzmfwn.svg",
+                "caption": "\"Blooms Galore: A Floral Paradise\""
+            }
+        ]
+    },
+    "team": {
+        "title": "Our Team Members",
+        "cards": [
+            {
+                "id": "262024507",
+                "name": "Nattasha",
+                "location": "Design, Australia",
+                "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701808855/templates/template_one/Photo_fz8cuc.jpg",
+                "mediaIcons": [
+                    {
+                        "icon": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701809141/templates/template_one/facebook_td263x.svg",
+                        "url": "https://facebook.com"
+                    },
+                    {
+                        "icon": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701809142/templates/template_one/x_yp3y5n.svg",
+                        "url": "https://x.com"
+                    },
+                    {
+                        "icon": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701809142/templates/template_one/linkedin_itbvp5.svg",
+                        "url": "https://linkedin.com"
+                    },
+                    {
+                        "icon": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701809141/templates/template_one/instagram_dlrab9.svg",
+                        "url": "https://instagram.com"
+                    }
+                ],
+                "email": "julie@email.com"
+            },
+            {
+                "id": "262024508",
+                "name": "Julie",
+                "location": "Design, Australia",
+                "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701808855/templates/template_one/Photo_fz8cuc.jpg",
+                "mediaIcons": [
+                    {
+                        "icon": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701809141/templates/template_one/facebook_td263x.svg",
+                        "url": "https://facebook.com"
+                    },
+                    {
+                        "icon": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701809142/templates/template_one/x_yp3y5n.svg",
+                        "url": "https://x.com"
+                    },
+                    {
+                        "icon": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701809142/templates/template_one/linkedin_itbvp5.svg",
+                        "url": "https://linkedin.com"
+                    },
+                    {
+                        "icon": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701809141/templates/template_one/instagram_dlrab9.svg",
+                        "url": "https://instagram.com"
+                    }
+                ],
+                "email": "julie@email.com"
+            },
+            {
+                "id": "262024509",
+                "name": "Alex",
+                "location": "Design, Australia",
+                "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701808855/templates/template_one/Photo_fz8cuc.jpg",
+                "mediaIcons": [
+                    {
+                        "icon": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701809141/templates/template_one/facebook_td263x.svg",
+                        "url": "https://facebook.com"
+                    },
+                    {
+                        "icon": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701809142/templates/template_one/x_yp3y5n.svg",
+                        "url": "https://x.com"
+                    },
+                    {
+                        "icon": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701809142/templates/template_one/linkedin_itbvp5.svg",
+                        "url": "https://linkedin.com"
+                    },
+                    {
+                        "icon": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701809141/templates/template_one/instagram_dlrab9.svg",
+                        "url": "https://instagram.com"
+                    }
+                ],
+                "email": "julie@email.com"
+            },
+            {
+                "name": "John",
+                "location": "Design, Australia",
+                "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701808855/templates/template_one/Photo_fz8cuc.jpg",
+                "mediaIcons": [
+                    {
+                        "icon": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701809141/templates/template_one/facebook_td263x.svg",
+                        "url": "https://facebook.com"
+                    },
+                    {
+                        "icon": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701809142/templates/template_one/x_yp3y5n.svg",
+                        "url": "https://x.com"
+                    },
+                    {
+                        "icon": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701809142/templates/template_one/linkedin_itbvp5.svg",
+                        "url": "https://linkedin.com"
+                    },
+                    {
+                        "icon": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701809141/templates/template_one/instagram_dlrab9.svg",
+                        "url": "https://instagram.com"
+                    }
+                ],
+                "email": "julie@email.com"
+            }
+        ]
+    },
+    "pricing": {
+        "title": "Pricing & Plan",
+        "description": "Home / Priceing",
+        "blocks": [
+            {
+                "plan": "Design advices",
+                "price": "29",
+                "timeUnit": "/month",
+                "moneyUnit": "$",
+                "features": [
+                    "General living space advices",
+                    "Renovation advices",
+                    "Interior design advices",
+                    "Furniture reorganization",
+                    "Up to 5 hours meetings"
+                ],
+                "buttonText": "Get Started",
+                "icon": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701813389/templates/template_one/Vector_5_vvvt2o.svg"
+            },
+            {
+                "plan": "Complete interior",
+                "price": "39",
+                "timeUnit": "/month",
+                "moneyUnit": "$",
+                "PopularPlan": "Most Popular Plans",
+                "features": [
+                    "Complete home redesign",
+                    "Interior and exterior works",
+                    "Modular interior planning",
+                    "Kitchen design",
+                    "Garages organization"
+                ],
+                "buttonText": "Get Started",
+                "icon": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701813389/templates/template_one/Vector_5_vvvt2o.svg"
+            },
+            {
+                "plan": "Furniture design",
+                "price": "59",
+                "timeUnit": "/month",
+                "moneyUnit": "$",
+                "features": [
+                    "Furniture for living room",
+                    "Furniture refurbishment",
+                    "Sofas and armchairs",
+                    "Tables and chairs",
+                    "Kitchens"
+                ],
+                "buttonText": "Get Started",
+                "icon": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701813389/templates/template_one/Vector_5_vvvt2o.svg"
+            }
+        ]
+    },
+    "cta": {
+        "title": "Wanna join us?",
+        "description": "It is a long established fact  will be distracted.",
+        "buttonText": "Contact With Us",
+        "icon": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701813389/templates/template_one/Vector_5_vvvt2o.svg"
+    },
+    "footer": {
+        "imgUrl": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701811960/templates/template_one/Logo_mj7rvw.png",
+        "description": "It is a long established fact that a reader will be distracted lookings.",
+        "mediaIcons": [
+            {
+                "icon": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701809141/templates/template_one/facebook_td263x.svg",
+                "url": "https://facebook.com"
+            },
+            {
+                "icon": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701809142/templates/template_one/x_yp3y5n.svg",
+                "url": "https://x.com"
+            },
+            {
+                "icon": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701809142/templates/template_one/linkedin_itbvp5.svg",
+                "url": "https://linkedin.com"
+            },
+            {
+                "icon": "https://res.cloudinary.com/duc04fwdb/image/upload/v1701809141/templates/template_one/instagram_dlrab9.svg",
+                "url": "https://instagram.com"
+            }
+        ],
+        "items": [
+            {
+                "title": "services",
+                "links": [
+                    "Kitchan,",
+                    "Living Area,",
+                    "Bathroom,",
+                    "Dinning Hall,",
+                    "Bedroom"
+                ]
+            },
+            {
+                "title": "section",
+                "links": [
+                    "About Us",
+                    " Projects",
+                    "Our Team",
+                    "Contact Us",
+                    "Services"
+                ]
+            }
+        ],
+        "contact": {
+            "title": "contact",
+            "location": "55 East Birchwood Ave. Brooklyn, New York 11201",
+            "email": "contact@interno.com",
+            "phone": "(123) 125-858"
+        },
+        "colors": {
+            "templateColors": [
+                "#fff",
+                "#cda274",
+                "#292f36",
+                "#f4f0ec",
+                "#777777"
+            ]
+        }
+    }
+}

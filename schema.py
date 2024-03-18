@@ -1,5 +1,5 @@
 from main import generate_title, generate_description, search_image
-
+import json
 
 def generate_schema(user_text):
   # Construct the state array
@@ -369,5 +369,10 @@ def generate_schema(user_text):
   return initial_state
 
 
-# the test sample ?
-#print(generate_schema("flower"))
+
+# Call the function with your desired input
+output = generate_schema("flower shop")
+
+# Write the output to a JSON file
+with open("output.json", "w") as json_file:
+    json.dump(output, json_file, indent=4)
